@@ -1,7 +1,7 @@
 import tensorflow as tf
 import matplotlib.pyplot as plt
 import os
-import cv2
+import cv2  
 from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras.models import Sequential
