@@ -68,7 +68,7 @@ while (1):
             cv2.circle(video, (x, y), 1, (80, 58, 255), -1)
             ear=getEar(c.AEyePointsL,lmPredd,c.AEyePointsR)
             #print(ear)
-            if(ear<c.Threshold):
+            if(ear<c.Threshold):   #comparing eaar with threshold defined in Constants.py file 
                 c.cntr+=1
                 if c.cntr >= c.CFrames:
                     if not c.AoN:
