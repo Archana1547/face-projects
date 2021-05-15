@@ -1,1 +1,5 @@
 This contain a python file where model is written 
+Mail me at pandeyarchana154@gmail.com for dataset,wont be uploading here this soon 
+Dataset consist of 2 claases,Fair and Dusky
+Working on dataset to make it more rich,so mail me to get the dataset
+model has accuracy of abouut 80%
